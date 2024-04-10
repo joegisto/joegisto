@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I Am Joe Gisto:
 
 🔭 I’m currently working on Reproloom<br><br>🌱 I’m currently learning Front-end development<br><br>💬 Ask me about css, javascript, html, c programming<br><br>📫 How to reach me joegisto@gmail.com<br><br>⚡ Fun fact A versatile UI/UX Designer on the rise
 
