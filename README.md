@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 🔭 I’m currently working on Reproloom<br><br>🌱 I’m currently learning Front-end development<br><br>💬 Ask me about css, javascript, html, c programming<br><br>📫 How to reach me joegisto@gmail.com<br><br>⚡ Fun fact A versatile UI/UX Designer on the rise
+![Uploading coding gif.gif…]()
 
-img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"
 
 
 ## 🌐 Socials:
