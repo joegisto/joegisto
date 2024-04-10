@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://media.licdn.com/dms/image/C4D16AQHV-jMR6ws4nQ/profile-displaybackgroundimage-shrink_350_1400/0/1653491053341?e=1718236800&v=beta&t=3kqvpSNYoZaQJp5vrLORkFGz2YOvK1QG1krG8Mij9Ko
+
 🔭 I’m currently working on Reproloom<br><br>🌱 I’m currently learning Front-end development<br><br>💬 Ask me about css, javascript, html, c programming<br><br>📫 How to reach me joegisto@gmail.com<br><br>⚡ Fun fact A versatile UI/UX Designer on the rise
 
 
